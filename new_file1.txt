@@ -1,2 +1,6 @@
 Hello! My name is Hyeon Seo Jang.
-Kumoh Natioal Institute of Technology.
+KIT(Kumoh Natioal Institute of Technology)
+
+Computer Sciences
+C Programming
+Object-oriented programming
